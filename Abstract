@@ -1,0 +1,14 @@
+-> DESCRIPTION:-
+    Crop Recommendation System for agriculture is based on various input
+    parameters. This proposes a hybrid model for recommending crops to south
+    Indian states by considering various attributes such as soil type, Rainfall,
+    Groundwater level, Temperature, Fertilizers, Pesticides and season.
+    The recommender model is built as a hybrid model using the classifier
+    machine learning algorithm. Based on the appropriate parameters, the system
+    will recommend the crop.
+
+-> DATASET:-
+    https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+
+-> IDE/ENVIRONMENT:-
+    Google Collab
